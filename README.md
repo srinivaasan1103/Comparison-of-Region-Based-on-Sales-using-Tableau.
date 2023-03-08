@@ -46,3 +46,5 @@ Average Sales per Order
 No. of Customers
 No. of Orders
 No. of Products in Sale
+
+Tableau Project Link :https://public.tableau.com/app/profile/srinivaasan.g/viz/ComparisonofRegionBasedonSales_16714741864650/Dashboard1?publish=yes
